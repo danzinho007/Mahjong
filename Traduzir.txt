@@ -1,0 +1,35 @@
+Traduzir :
+
+comer = 
+concealed = 
+either = 
+further = 
+therefore = 
+tiles = 
+
+Dados :
+Alice = mentora 
+Mei 
+
+Mahjong 
+-origina da Antiga China
+-possui várias variantes
+-popular no Japão, Europa e US
+-34 títulos com 4 cópias de cada ( 136 no total )
+-9 Sou / Bamboo tile ( numerados de 1 a 9 )
+-9 Pin / Dot tile ( numerados de 1 a 9 - bolinha )
+-9 Wan / Character tile ( numerados de 1 a 9 )
+-3 Suites : 4 Wind Tiles ( East, South, West e North )
+-3 Dragon tiles ( Green, Red e White )
+-Resumindo : 9 Man, 9 Pin, 9 Son, 4 Wind e 4 Dragon 
+-Total : 35 cartas
+-Retira carta e discarta carta
+-Mão vencedora = 4 triples or 4 sequencias e 1 par
+-Par = 2 cartas
+-Triplo = 3 cartas idênticas é chamado de Pon
+-4 cartas idênticas é chamado de Kan
+-Sequência é chamada de chili 
+Exemplo : 123, 234 ou 567
+-Yaku = Combinação especial para vencer a rodada
+-Dragon Triplet é um Yaku
+-
