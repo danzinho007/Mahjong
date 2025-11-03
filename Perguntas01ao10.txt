@@ -1,0 +1,38 @@
+1-Existe mais de um tipo de Mahjong ? Qual ?
+Sim. Mahjong Solitaire e Mahjong Japonês / Richii
+
+2-Qual a diferença entre os Mahjong existentes ?
+Mahjong Solitaire = Jogado sozinho, combinar 2 peças até terminar tudo
+Mahjong Tradicional = Jogado em 2 ou mais pessoas, combinar peças trocando com os outros a cada rodada 
+
+3-Qual a origem ?
+China Antiga
+
+4-Quantas peças ( pedras ) são usadas no jogo tradicional ?
+136 ( 4 baralhos de 34 pedras )
+
+5-Quais naipes temos no jogo tradicional ?
+Círculo ( Pin )
+Bambu ( Son )
+Caractere ( Man )
+Vento Leste ( Wind )
+Três Dragões ( Dragon )
+
+6-Como é dividido as peças no jogo ?
+Man temos 9 pedras de 1 a 9
+Pin temos 9 pedras de 1 a 9 ( 18 )
+Son temos 9 pedras de 1 a 9 ( 27 )
+Wind temos 4 pedras representado os ventos ( 31 )
+Dragon temos 3 pedras representando os dragões ( 34 )
+
+7-Uma mão vencedora é composta de que ?
+4 trios ou 4 sequências e um par
+
+8-O que é par ?
+2 pedras idênticas formam um par
+
+9-O que é trio ( pon ) ?
+3 pedras idênticas formam um trio
+
+10-O que é kan ?
+4 pedras idênticas formam um kan

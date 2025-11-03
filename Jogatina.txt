@@ -1,0 +1,65 @@
+Jogatina:
+
+Man (NúmerosJaponeses)
+Pin (Bolinha)
+Sou (Bambu)
+Ventos (NorteSulLesteOeste)
+Dragões (BrancoVerdeVermelho)
+
+Tutorial_01:
+
+Man (NúmerosJaponeses)
+244
+Pin (Bolinha)
+112233
+Sou (Bambu)
+88
+Ventos (NorteSulLesteOeste)
+LO
+Dragões (BrancoVerdeVermelho)
+Verde
+
+2 pares: 
+Man 44 Bambu 88
+2 sequências :
+Pin 123 123
+
+Pontuação:
+
+1300:
+Man 33456
+Pin 
+Sou
+Vento
+Dragão
+DragonWhite_1
+30Fu 1Han
+
+2900 pontos:
+Man 567 
+Pin 345
+Sou 234 678
+Dragão PlacaPlaca
+Riichi 1Han
+DoraHan
+Uradora 1Han
+40 Fu 2 Han
+
+3500
+Man 678
+Pin 88
+Sou 111 234
+Vento LLL
+Dragão
+Riichi_1Han
+PrevalentWind_1Han
+50Fu 2Han
+
+12000 pontos:
+Man 33 444
+Pin 567
+Sou 123 666
+Riichi_1Han
+Dora_1Han
+Uradora_1Han
+40Fu 6Han

@@ -1,0 +1,46 @@
+11-O que é Sequência ( chii ) ? 
+São 3 pedras do mesmo naipe consecutivas
+Exemplo : 123, 234, 345, etc
+
+12-O que é Yaku ?
+É uma condição que determina o valor da mão do jogador.
+Cada um tem um valor
+
+13-O que é um Trio Dragão ( Dragon Triplet ) ?
+É um tipo de Yaku, é ter 3 dragões iguais
+
+14-O que é chii ?
+É o sinal pra completar uma sequência, dado após alguém descartar 1 pedra.
+Só pode usar o sinal quem estiver a esquerda do jogador que descartou
+
+15-O que é pon ?
+É o sinal pra completar uma trinca, dado após alguém descartar 1 pedra.
+Pode ser usado por qualquer pessoa
+
+16-O que é West Wind ?
+Vento Leste ( Direita ) 
+É quem senta na cadeira Leste
+A organização fica assim : Norte - Leste - Sul - Oeste
+
+17-O que é Tsumo ? 
+É quando o jogador compra uma peça e vence a rodada
+
+18-Quais 3 tipos de Yaku nós temos ?
+Mão fechada Yaku
+Mão aberta Yaku
+Yaku
+
+19-Explique cada um dos 3 tipos de Yaku
+Mão fechada Yaku = É quando o jogador não tem nenhum pon, chii ou kan aberto pros outros
+Mão aberta Yaku = É o contrário da fechada
+Yaku = É quando o jogador faz ambas coisas 
+
+20-O que é Fully Concealed Hand Han ?
+Mãos totalmente Ocultas
+É uma mão fechada que ganha comprando uma carta
+
+21-Quantos pontos da um Fully Concealed Hand Han ? 
+Vale 2 han duplo
+
+22-O que é Han ?
+Representa o valor ou a complexidade da mão vencedora
