@@ -1,0 +1,46 @@
+Vídeos Youtube:
+
+Aula01: Como jogar Mahjong
+https://www.youtube.com/watch?v=K2WUNTnzSho
+
+Aula02:
+https://www.youtube.com/watch?v=HB6-wzTvd64
+
+Aula03:
+https://www.youtube.com/watch?v=9HCy9_mqRAQ
+
+Aula04:
+https://www.youtube.com/watch?v=NSSmjWkXwxA
+
+1 Han = Riichi
+Menzen Tsumo = Bater do Tsumo com a mão fechada
+Pinfu = Mão Fechada, apenas sequências, espera dupla
+Riichi = Falta uma, mão fechada
+Ron = Bater de álguem
+Tanyao = Pode ser aberto, usa somente pedras do 2 ao 8 
+Tsumo = Bater do muro
+Yakuhai = Pode ser aberto, Trinca de letras ( Elementos, Ventos )
+
+1-Yakuhai
+2-Não tem
+3-Pinfu
+4-não tem
+5-Tanyao
+6-Tanyao Pinfu
+7-não tem yaku 
+8-Yakuhai
+9-não tem
+10-Pinfu
+
+Mãos abertas
+abrir somente pra completar
+expor o conjunto todo
+indicar de quem foi pego ( pessoa da esquerda, na esquerda, do meio no meio, e da direita na direita ) colocando a pedra na horizontal
+só pode pegar a pedra que acabou de ser descartada
+
+Chi = sequências, somente pega do jogador da esquerda
+Pon = Trinca, pega de qualquer um
+Kan = Quadra, 4 cartas, pega de qualquer um, abre uma nova dora
+Kan fechado = pega pedra do muro, mão fechada, pode fazer o Riichi
+Kan aberto = pega pedra de alguém pra completar uma quadrada, pode ser de qualquer um 
+Evoluir trinca aberta pra Kan
